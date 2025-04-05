@@ -1,8 +1,0 @@
-alin 8
-mihai 5
-ionel 3
-cornel 11
-eric 30
-clau 10
-alex 12
-eric 21
